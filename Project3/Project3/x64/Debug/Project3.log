@@ -1,0 +1,8 @@
+﻿  源.c
+C:\Users\30787\Desktop\C_learning\Project3\Project3\源.c(6,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\30787\Desktop\C_learning\Project3\Project3\源.c(6,12): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\30787\Desktop\C_learning\Project3\Project3\源.c(7,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\30787\Desktop\C_learning\Project3\Project3\源.c(7,12): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\30787\Desktop\C_learning\Project3\Project3\源.c(8,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\30787\Desktop\C_learning\Project3\Project3\源.c(8,12): message : 请考虑在格式字符串中使用“%zd”
+  Project3.vcxproj -> C:\Users\30787\Desktop\C_learning\Project3\x64\Debug\Project3.exe
