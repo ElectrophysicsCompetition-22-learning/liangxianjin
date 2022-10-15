@@ -1,0 +1,5 @@
+﻿  源.c
+C:\Users\30787\Desktop\C_learning\Project4\Project4\源.c(7,9): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+C:\Users\30787\Desktop\C_learning\Project4\Project4\源.c(7,9): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+C:\Users\30787\Desktop\C_learning\Project4\Project4\源.c(7,9): message : 缺失的可变参数 1 为格式字符串“%c”所需
+  Project4.vcxproj -> C:\Users\30787\Desktop\C_learning\Project4\x64\Debug\Project4.exe
